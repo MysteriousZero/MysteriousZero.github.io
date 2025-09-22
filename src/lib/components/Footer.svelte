@@ -29,7 +29,7 @@
         <div class="space-y-2">
           <a href="#features" class="block hover:text-blue-400 transition-colors duration-300 text-sm">Features</a>
           <a href="https://github.com/mysteriouszero" target="_blank" rel="noopener noreferrer" class="block hover:text-blue-400 transition-colors duration-300 text-sm">GitHub</a>
-          <a href="#" class="block hover:text-blue-400 transition-colors duration-300 text-sm">Documentation</a>
+          <a href="https://github.com/mysteriouszero/docs" target="_blank" rel="noopener noreferrer" class="block hover:text-blue-400 transition-colors duration-300 text-sm">Documentation</a>
         </div>
       </div>
       
